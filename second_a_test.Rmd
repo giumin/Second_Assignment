@@ -11,8 +11,27 @@ bibliography: bibliography.bib
 ---
 #Research question
 
+Health decentralization policies have already been implemented in the last decades in many countries, such as Gana, Zambia, Uganda and on a broader scale all over the world as a step in a process of economic and political change. This initiative has also been supported by bilateral and multilateral agencies that have been investing in such projects time and resources. 
+The process of decentralization involves a series of mechanisms that are focused on the transferal of fiscal, administrative and political authority from the central level, such as the Ministry of Health, to the institutions at the local level. 
+Decentralization is said to have many benefits in the country where it is implemented; for example, improving efficiency in allocating resources to a set of services or improving the use of expenditures, since they are decided locally based on specific needs. 
+
+However, focusing our research on the impacts and effects this process has on health provision in Benin, we want to see if it is truly efficient always, or if it can affect negatively some circumstances and overall the benefits perceived by the population.
+For example, we would like to see if the fiscal decentralization somehow resulted in an increase or decrease of health provision, which means the complexity of elements that revolve around health care, like the number of facilities, improved health conditions etc..
+
+Thus, our research question is : which are the effects of decentralization on health provision in Benin? 
+A better question would be: **What impact does decentralization have on the performance of the health provision system in Benin?**
+
+Moreover, we chose the country of Benin for two main reasons:
+firstly, Benin is a young democracy and it is divided into twelve departments which are subdivided into 77 communes, that are in turn divided in 546 districts;
+secondly, the new democratic process was accompanied by a huge transformation of the political and administrative organization. The country experienced a decentralization process starting in 1998 that became effective with local elections in 2003.  
+
+
+
 #Literature review
 
 #Data
 
 #Research methodology
+
+
+#References
