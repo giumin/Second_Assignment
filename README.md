@@ -1,4 +1,10 @@
-Second_Assignment
+Hertie School of Governance - Fall 2014
+---------------------------------------
+
+Collaborative Social Science Data Analysis
+------------------------------------------
+
+Second Assignment: 
 =================
 
 This directory includes all the steps of the second assignment for the data analysis class. 
