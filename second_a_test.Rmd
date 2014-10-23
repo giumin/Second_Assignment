@@ -1,6 +1,6 @@
 ---
 title: "Second Assignment"
-authors: "Giulia Minnucci, Rose-Camille Vincent"
+authors: "Giulia Minnucci, Rose-Camille Vincent, Daniel Jemberu"
 date: "9 October 2014"
 output:
   pdf_document:
@@ -39,4 +39,4 @@ A first set of theoretical literature concers jurisdictions' interactions, consi
 #Research methodology
 
 
-#References
+##References
