@@ -9,7 +9,7 @@ output:
     toc: yes
   html_document:
     toc: yes
-authors: Giulia Minnucci, Rose-Camille Vincent, Daniel Jemberu
+authors: "Giulia Minnucci, Rose Camille Vincent, Daniel Jemberu" 
 ---
 
 #Research question
