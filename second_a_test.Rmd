@@ -37,7 +37,7 @@ Proponents of decentralization share the view that local governments are the maj
 
 (ii) local government has an informational advantage, which is essential to improve provision of public services [@oates1972fiscal]
 
-(iii) decentralization shall enhance the accountability of policymakers through greater participation of nearby communities in political decisions [@crook1998democracy, @tiebout1956pure]
+(iii) decentralization shall enhance the accountability of policymakers through greater participation of nearby communities in political decisions [@crook1998democracy; @tiebout1956pure]
 
 There have been numerous attempts to check these theories and empirically assess the impact of decentralization on provision of public goods and services. Hence, our first set of literature concerns the interaction between decentralization and public spending. 
 
