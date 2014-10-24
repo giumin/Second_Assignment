@@ -63,4 +63,4 @@ Secondly, we will use Benin’s Integrated Modular Surveys on Household Living C
 For the methodology, we will first explore legal and political backgrounds of decentralisation in Benin and attributions of different administrative levels with regards to health provision. Secondly we will review existing theoretical and empirical literatures on welfare states, poverty and health. The literature review will help us defining the main concepts and discuss measurements of the key variables to be included in the empirical analysis. The empirical strategy will consist of using panel data with fixed-effects estimators. Besides the indicators of decentralization level and health provision, the panel will contain information on the 77 municipalities such as population, territory, poverty level. We will use statistical methods to test for potential endogeneity of the main variables and for the fitness of our econometric model. 
 
 
-#References
+##References
