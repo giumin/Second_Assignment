@@ -1,13 +1,15 @@
 ---
 title: "Second Assignment"
-authors: "Giulia Minnucci, Rose-Camille Vincent, Daniel Jemberu"
+bibliography: bibliography.bib
 date: "9 October 2014"
 output:
   pdf_document:
-    toc: true
-    number_sections: true
-    fig_caption: true
-bibliography: bibliography.bib
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+  html_document:
+    toc: yes
+authors: Giulia Minnucci, Rose-Camille Vincent, Daniel Jemberu
 ---
 
 #Research question
@@ -23,10 +25,7 @@ Thus, our research question is : which are the effects of decentralization on he
 A better question would be: **What impact does decentralization have on the performance of the health provision system in Benin?**
 
 ## Why Benin?
-We chose the country of Benin for two main reasons:
-firstly, Benin is a young democracy and it is divided into twelve departments which are subdivided into 77 communes, that are in turn divided in 546 districts;
-secondly, the new democratic process was accompanied by a huge transformation of the political and administrative organization. The country experienced a decentralization process starting in 1998 that became effective with local elections in 2003.  
-
+Decentralization in Benin only begun in the 2000s with establishment of 77 municipalities and transfer of competencies from central to local governments . The country is currently ranked 165 out of 187 countries in the 2014 Human Development Index, with a GDP/capita of US$794.433 (5% growth in 2013) and an estimated population of 9.351 million in 2012. For the past decade, decentralization has been at the core of the major national policies, which aims at reducing poverty for a human sustainable development. We chose Benin because it is a young democracy and because decentralization, although at its very early stage, was accompanied by a huge transformation of the political and administrative organization. 
 
 
 #Literature review
@@ -64,4 +63,4 @@ Secondly, we will use Benin’s Integrated Modular Surveys on Household Living C
 For the methodology, we will first explore legal and political backgrounds of decentralisation in Benin and attributions of different administrative levels with regards to health provision. Secondly we will review existing theoretical and empirical literatures on welfare states, poverty and health. The literature review will help us defining the main concepts and discuss measurements of the key variables to be included in the empirical analysis. The empirical strategy will consist of using panel data with fixed-effects estimators. Besides the indicators of decentralization level and health provision, the panel will contain information on the 77 municipalities such as population, territory, poverty level. We will use statistical methods to test for potential endogeneity of the main variables and for the fitness of our econometric model. 
 
 
-##References
+#References
