@@ -1,7 +1,8 @@
 ---
 title: "Second Assignment"
+authors: "Giulia Minnucci, Rose Camille Vincent, Daniel Jemberu"
 bibliography: bibliography.bib
-date: "9 October 2014"
+date: "23 October 2014"
 output:
   pdf_document:
     fig_caption: yes
@@ -9,7 +10,8 @@ output:
     toc: yes
   html_document:
     toc: yes
-authors: "Giulia Minnucci, Rose Camille Vincent, Daniel Jemberu" 
+  word_document: default
+
 ---
 
 #Research question
